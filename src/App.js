@@ -1,6 +1,5 @@
 
 import React, { useState } from "react";
-import './App.css';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import { TextField } from '@material-ui/core';
 
